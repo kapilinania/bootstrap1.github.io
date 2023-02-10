@@ -1,0 +1,124 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+.header {
+    background-color: #37517e;
+    color: white;
+}
+
+.nav ul li a {
+    color: white;
+    font-size: 20px;
+}
+
+.better {
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 55px;
+}
+
+.better_con {
+    color: rgba(255, 255, 255, 0.6);
+    margin-bottom: 50px;
+    font-size: 24px;
+}
+
+.statred {
+    font-family: "Jost", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 28px 11px 28px;
+    border-radius: 50px;
+    transition: 0.5s;
+    margin: 10px 0 0 0;
+    color: #fff;
+    background: #47b2e4
+}
+
+.client img {
+    max-width: 45%;
+    transition: all 0.4s ease-in-out;
+    display: inline-block;
+    padding: 30px 0;
+}
+.client_section{
+    background-color: #f3f5fa;
+}
+/* -------about css is here---- */
+.about_text{
+    font-weight: bold;
+    color: #37517e;
+    text-align: center;
+    margin: 20px 0px 20px 0px;
+    font-size: 35px;
+    border-bottom: 0px solid red;
+}
+.about_con{
+    margin: 15px 0px 15px 0px;
+}
+.about_section{
+    background-color: #f3f5fa
+}
+.about_color{
+    color: #37517e;
+    font-size: 33px;
+    line-height: 45px;
+}
+.about_color span{
+    font-weight: bold;
+}
+.accordtion {
+    font-weight: bold;
+    border: 0px solid red;
+    color: #47b2e4;
+}
+.progress-bar-striped {
+    background-color: #4668a2 !important;
+}
+/* -----------------services css is here---- */
+.service_lorem{
+    color: #37517e;
+    font-weight: bold;
+    font-size: 25px;
+    padding: 10px 0px 10px 13px;
+}
+.service_lorem:hover{
+    color: #47b2e4;
+}
+.location{
+    color: #37517e;
+    font-weight: bold;
+    font-size: 30px;
+}
+/* -------------news css is here ------------------------ */
+.news{
+    background-color: #f3f5fa;
+}
+.news_in{
+    color: #37517e;
+    font-size: 30px;
+    font-weight: bold;
+}
+.subscribe{
+    width: 80%;
+    border: 0px solid red;
+    box-shadow: 0px 2px 15px rgb(0 0 0 / 6%);
+}
+/* -----------------------------footer is here --------------- */
+.footer_phone{
+    font-weight: bold;
+}
+.Useful{
+    font-weight: bold;
+    color: #37517e;
+    font-size: 16px;
+}
+
+.kapil{
+    border: 0px solid red;
+}
